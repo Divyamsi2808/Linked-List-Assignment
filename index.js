@@ -42,7 +42,7 @@ class LinkedList {
 
   findSecondLargest() {
     let first = this.head.data;
-    let second = Number.MIN_VALUE;
+    let second = null;
 
     let currentNode = this.head.next;
     while (currentNode) {
