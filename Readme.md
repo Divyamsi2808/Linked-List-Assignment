@@ -7,7 +7,7 @@
 <li>Run the script using Node.js:</li>
 
 ```
-node script.js
+node index.js
 ```
 <li>Follow the on-screen instructions to enter numbers. Type "done" when you're finished.</li>
 </ul>
